@@ -7,7 +7,7 @@
     'name': 'Instagram, Pinterest and Dribbble on Website',
     'author': 'Piotr Cierkosz',
     'website': 'http://www.cier.tech',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Website',
     'images': ['images/thumbnail.png'],
     'depends' : ['website'],
@@ -20,6 +20,8 @@
     'data': [
         'views/website_footer_new_social.xml',
         'views/company_form_new_social.xml',
+    # Please uncomment the field below if you are using Email Marketing module
+    #    'views/company_form_mass_mailing.xml',
     ],
     'description': """
     Adds Instagram, Pinterest and Dribble to Website footer as well as in the company.
