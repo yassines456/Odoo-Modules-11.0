@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
-  <template id="kanban_price_hide" inherit_id="website_sale.products_item" name="Hide price for not logged" active="True">
+  <!-- inheriting Products item" view -->
+  <template id="kanban_price_hide" inherit_id="website_sale.products_item" name="Hide price for not logged" active="True" priority="99">
           <xpath expr="//div[@class='product_price']" position="replace">
 	         <t t-if="uid is not None">
             <div itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer" class="product_price" t-if="product.product_variant_ids">
@@ -17,6 +18,6 @@
           </t>
           </xpath>
     </template>
-    
+
 
     </data>

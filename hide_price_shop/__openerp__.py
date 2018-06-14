@@ -2,7 +2,7 @@
 # © 2018 Piotr Cierkosz <piotr.w.cierkosz@gmail.com>
 {
     'name': "Hide Price in Shop",
-    'version': "1.0",
+    'version': "1.1",
     'author': "Piotr Cierkosz",
     'website': "www.cier.tech",
     'category': "Website",
