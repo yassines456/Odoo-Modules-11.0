@@ -12,5 +12,6 @@
     'category': 'Extra Tools',
     'license': 'Other proprietary',
     'summary': 'This module adds Zip code to the Contacts List in Contacts, Sales, Purchases and more',
+    'price': 10.0,
     'currency': 'EUR',
 }
