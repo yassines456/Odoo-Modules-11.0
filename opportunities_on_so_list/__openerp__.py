@@ -12,7 +12,7 @@
     'description' : "This module adds opportunities to the orders list view",
     'website': "www.cier.tech",
     'summary': 'This module allows users to see the connected opportunity on the orders list view',
-    'price': 5.0,
+    'price': 9.0,
     'currency': 'EUR',
     'data': ['views/so_tree_views.xml',],
 
