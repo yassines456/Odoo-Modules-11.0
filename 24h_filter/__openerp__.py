@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name' : "Today filter",
+    'name' : "24h filter",
     'version' : "1.0",
     'author' : "Piotr Cierkosz",
     'images': ['images/thumbnail.png'],

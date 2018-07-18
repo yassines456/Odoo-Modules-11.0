@@ -8,8 +8,8 @@
         <!-- inherits architecture  -->
         <field name="arch" type="xml">
           <field name='number' position="before">
-           <filter name="Last 24h" domain="[('date_invoice', '&gt;=', (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y-%m-%d %H:%M:%S')), ('date_invoice', '&lt;=', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))]"/>
-            </field>
+            <filter string="Today" domain="[('date_invoice', '&gt;=', datetime.datetime.now().strftime('%Y-%m-%d 00:00:00')),('date_invoice', '&lt;=', datetime.datetime.now().strftime('%Y-%m-%d 23:23:59'))]"/>
+          </field>
         </field>
       </record>
     </data>
