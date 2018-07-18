@@ -8,7 +8,7 @@
         <xpath expr="//div[@id='blog_right_column']/section[@class='mt32']/h2/a[@t-att-href='website.social_github']" position="after">
         <!-- Fields - field link + if field exist then it will be displayed + field icon -->
                 <a t-att-href="website.social_steemit" t-if="website.social_steemit"><img src="/steemit/static/src/img/steemit.png"/></a>
-                <a t-att-href="website.social_dtube" t-if="website.social_dtube"><img src="/steemit/static/src/img/dtube.png"/></a>
+                <a t-att-href="website.social_dtube" t-if="website.social_dtube"><img width="28" height="28" src="/steemit/static/src/img/dtube.png"/></a>
                 </xpath>
       </field>
   </record>
