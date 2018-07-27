@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# For more information and help please contact author. www.cierkosz.com, www.cier.website_product_attachment_shop
+# For more information and help please contact author. www.cierkosz.com, www.cier.tech
 {
-    'name' : "Default list view for Product",
+    'name' : "Product List View by Default",
     'version' : "1.0",
     'images': ['images/thumbnail.png'],
     'author' : "Piotr Cierkosz",
