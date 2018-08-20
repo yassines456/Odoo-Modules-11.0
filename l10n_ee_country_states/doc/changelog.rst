@@ -2,8 +2,8 @@
 
 Changelog
 =========
-1.1 (07-AUG-18)
-- codes compatible with ISO 3166-2:PL
+1.1 (20-AUG-18)
+- codes compatible with ISO 3166-2:EE
 - description updated
 1.0.1
 - thumbnail
