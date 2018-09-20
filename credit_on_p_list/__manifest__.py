@@ -2,7 +2,7 @@
 
 {
     'name' : "Credit on Partner List",
-    'version' : "1.0",
+    'version' : "1.1",
     'images': ['images/thumbnail.png'],
     'author' : "Piotr Cierkosz",
     'category': 'Sales',
