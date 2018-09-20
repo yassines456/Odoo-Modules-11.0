@@ -15,5 +15,5 @@
     'price': 10.0,
     'currency': 'EUR',
     'data': ['views/credit_l_v.xml',],
-
+    'live_test_url': 'https://www.youtube.com/watch?v=Rx7b3D5dRu8',
 }
