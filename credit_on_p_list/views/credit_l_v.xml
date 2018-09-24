@@ -5,7 +5,7 @@
         <field name="model">res.partner</field>
         <field name="arch" type="xml">
           <field name="email" position="after">
-            <field name="credit" string="Credit" widget="float"/>
+            <field name="credit" string="Credit"/>
           </field>
         </field>
       </record>
