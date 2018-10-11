@@ -13,6 +13,6 @@
     'category': 'Sales',
     'license': 'Other proprietary',
     'summary': 'This module adds Opportunity to Quotations list view',
-    'price': 9.0,
+    'price': 10.0,
     'currency': 'EUR',
 }
