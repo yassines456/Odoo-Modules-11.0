@@ -1,4 +1,5 @@
 # Odoo-Modules-11.0
+# Warning - the repo was merged into Odoo-Modules
 
 This folder contains modules for Odoo 11. Every single module was tested on a clean Odoo installation. However, you should always back up your Odoo before you install any new module.
 
